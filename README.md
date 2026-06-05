@@ -11,6 +11,8 @@ Production-grade batch data pipeline processing **38.3 million NYC Yellow Taxi t
 
 ## Architecture
 
+![Pipeline Architecture](architecture/architecture.png)
+
 ```
 NYC TLC Data Source (CloudFront)
          ↓
